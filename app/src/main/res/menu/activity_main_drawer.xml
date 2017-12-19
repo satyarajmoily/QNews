@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="General">
+        <menu>
+        <item
+            android:id="@+id/bbc_news"
+            android:title="BBC News" />
+        <item
+            android:id="@+id/cnn"
+            android:title="CNN" />
+        <item
+            android:id="@+id/al_jazeera"
+            android:title="Al Jazeera" />
+        <item
+            android:id="@+id/google_news"
+            android:title="Google News" />
+        <item
+            android:id="@+id/the_hindu"
+            android:title="The Hindu" />
+        <item
+            android:id="@+id/news_york"
+            android:title="The New York Times" />
+        <item
+            android:id="@+id/times_of_india"
+            android:title="The Times of India" />
+        <item
+            android:id="@+id/usa_today"
+            android:title="USA Today" />
+        </menu>
+    </item>
+
+
+    <item android:title="Sports">
+        <menu>
+            <item
+                android:id="@+id/bbc_sports"
+                android:title="BBC Sports" />
+
+            <item
+            android:id="@+id/espn"
+            android:title="ESPN" />
+            <item
+                android:id="@+id/football_italia"
+                android:title="Football Italia" />
+            <item
+                android:id="@+id/fox_sports"
+                android:title="Fox Sports" />
+            <item
+                android:id="@+id/talksports"
+                android:title="TalkSports" />
+        </menu>
+    </item>
+
+    <item android:title="Business">
+        <menu>
+            <item
+                android:id="@+id/bloomberg"
+                android:title="Bloomberg" />
+            <item
+                android:id="@+id/business_insider"
+                android:title="Business Insider" />
+            <item
+                android:id="@+id/cnbc"
+                android:title="CNBC" />
+            <item
+                android:id="@+id/financial_news"
+                android:title="Financial Times" />
+            <item
+                android:id="@+id/wall_street"
+                android:title="The Wall Street Journal" />
+        </menu>
+    </item>
+
+    <item android:title="Technology">
+    <menu>
+        <item
+            android:id="@+id/ars_technica"
+            android:title="Ars Technica" />
+
+        <item
+            android:id="@+id/engadget"
+            android:title="Engadget" />
+        <item
+            android:id="@+id/recode"
+            android:title="Recode" />
+        <item
+            android:id="@+id/tech_radar"
+            android:title="TechRadar" />
+        <item
+            android:id="@+id/the_verge"
+            android:title="The Verge" />
+    </menu>
+    </item>
+
+</menu>

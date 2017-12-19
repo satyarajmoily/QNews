@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QNews</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="empty_view_title_text">It\'s a bit lonely here…</string>
+    <string name="empty_view_subtitle_text">Oops, I don\'t see any internet connection </string>
+    <string name="action_settings">Settings</string>
+    <string name="heading">Heading</string>
+    <string name="textview">TextView</string>
+    <string name="time">Time</string>
+    <string name="channel_logo">channel logo</string>
+    <string name="developed">DEVELOPED</string>
+    <string name="by">BY</string>
+    <string name="satyaraj">SATYARAJ</string>
+    <string name="action_about">About</string>
+</resources>
